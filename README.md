@@ -1,12 +1,11 @@
 # Birthday palindrome
 
-## Live link : https://cash-register-react-app.netlify.app/
+## Live link :https://birthday-pallindrome-react-app.netlify.app/
 
 ## About
 
 - Take your user's birthday
 - ell whether user was born on a palindrome day or not.
-- If the user's birthday is not a palindrome, then tell them what is the nearest date from their birthdate which is a palindrome date
 
 ---
 
